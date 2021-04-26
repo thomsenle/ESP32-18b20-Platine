@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ADS1115)(type KiCad)(uri C:/Users/tsadmin/Desktop/Pool/ADS1115)(options "")(descr ""))
+  (lib (name Battery)(type KiCad)(uri C:/Users/tsadmin/Desktop/Pool/Battery)(options "")(descr ""))
+  (lib (name Garten)(type KiCad)(uri "G:/Meine Ablage/Garten")(options "")(descr ""))
+)
